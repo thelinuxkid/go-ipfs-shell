@@ -205,7 +205,7 @@ type LsLink struct {
 	Hash string
 	Name string
 	Size uint64
-	Type string
+	Type int
 }
 
 type LsObject struct {
